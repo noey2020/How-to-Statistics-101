@@ -120,6 +120,12 @@ space down to two or three dimensions for the purpose of visualization.
 
 I included some posts for reference.
 
+https://github.com/noey2020/How-to-Write-SPI-STM32
+
+https://github.com/noey2020/How-to-Write-SysTick-Handler-for-STM32
+
+https://github.com/noey2020/How-to-Write-Subroutines-in-C-Assembly-STM32
+
 https://github.com/noey2020/How-to-Write-Multitasking-STM32
 
 https://github.com/noey2020/How-to-Generate-Triangular-Wave-STM32-DAC
